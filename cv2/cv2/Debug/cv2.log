@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\plass-f-a7c1\source\repos\cv2\cv2\main.cpp(16): warning C4101: bin: neodkazovaná lokální proměnná
+  cv2.vcxproj -> C:\Users\Plass-F-a7c1\source\repos\cv2\Debug\cv2.exe
