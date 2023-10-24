@@ -1,0 +1,1 @@
+void fillArray(char* pole, int delka);

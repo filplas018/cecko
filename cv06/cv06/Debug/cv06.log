@@ -1,0 +1,6 @@
+﻿  alocateArray.cpp
+  main.cpp
+c:\users\plass-f-a7c1\source\repos\cv06\cv06\main.cpp(6): warning C4326: Návratový typ main by měl být int místo void.
+  printArray.cpp
+  Generování kódu...
+  cv06.vcxproj -> C:\Users\Plass-F-a7c1\source\repos\cv06\Debug\cv06.exe

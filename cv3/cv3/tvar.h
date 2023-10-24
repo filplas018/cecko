@@ -1,0 +1,1 @@
+float tvar(char volba);

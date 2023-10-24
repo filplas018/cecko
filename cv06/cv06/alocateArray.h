@@ -1,0 +1,1 @@
+char* alocateArray(int delka);

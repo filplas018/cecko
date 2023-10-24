@@ -1,0 +1,17 @@
+﻿  MainDriver.cpp
+  tvar.cpp
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(12): warning C4477: scanf_s: Formátovací řetězec %f vyžaduje argument typu float *, ale variadický argument 1 má typ double *.
+  c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(12): note: Zvažte použití %lf ve formátovacím řetězci.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(13): warning C4244: argument: double se převádí na int; může dojít ke ztrátě dat.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(19): warning C4477: scanf_s: Formátovací řetězec %f vyžaduje argument typu float *, ale variadický argument 1 má typ double *.
+  c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(19): note: Zvažte použití %lf ve formátovacím řetězci.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(20): warning C4244: argument: double se převádí na int; může dojít ke ztrátě dat.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(26): warning C4477: scanf_s: Formátovací řetězec %f vyžaduje argument typu float *, ale variadický argument 1 má typ double *.
+  c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(26): note: Zvažte použití %lf ve formátovacím řetězci.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(28): warning C4477: scanf_s: Formátovací řetězec %f vyžaduje argument typu float *, ale variadický argument 1 má typ double *.
+  c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(28): note: Zvažte použití %lf ve formátovacím řetězci.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(30): warning C4477: scanf_s: Formátovací řetězec %f vyžaduje argument typu float *, ale variadický argument 1 má typ double *.
+  c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(30): note: Zvažte použití %lf ve formátovacím řetězci.
+c:\users\plass-f-a7c1\source\repos\cv3\cv3\tvar.cpp(31): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+  Generování kódu...
+  cv3.vcxproj -> C:\Users\Plass-F-a7c1\source\repos\cv3\Debug\cv3.exe

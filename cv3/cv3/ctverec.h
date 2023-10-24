@@ -1,0 +1,1 @@
+float obsah_ctverce(int r);
